@@ -44,7 +44,6 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
 </p>
 
 ### ⚡ Parallel Computing & Hardware-Level Acceleration
@@ -52,13 +51,6 @@
   <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
   <img src="https://img.shields.io/badge/Computer_Architecture-111111?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/HPC-005571?style=for-the-badge"/>
-</p>
-
-### 🧠 Algorithmic Foundations & AI
-<p align="left">
-  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-3670A0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 </p>
 
 ### 🧰 Workspace & Tools
