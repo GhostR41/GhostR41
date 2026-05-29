@@ -77,17 +77,6 @@
 
 <br/>
 
-<div align="center">
-  <h3>📊 Activity Metrics</h3>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GhostR41&theme=tokyonight" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GhostR41&theme=tokyonight" width="48%" />
-  
-  <br/>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GhostR41&theme=tokyonight" width="97%" />
-</div>
-
 ---
 
 # 🌐 Connectivity
