@@ -80,12 +80,12 @@
 <div align="center">
   <h3>📊 Activity Metrics</h3>
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_GITHUB_USERNAME&theme=tokyonight" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_GITHUB_USERNAME&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GhostR41&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GhostR41&theme=tokyonight" width="48%" />
   
   <br/>
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight" width="97%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GhostR41&theme=tokyonight" width="97%" />
 </div>
 
 ---
@@ -93,10 +93,10 @@
 # 🌐 Connectivity
 
 <div align="left">
-  <a href="mailto:your.email@example.com">
+  <a href="[mailto:your.email@example.com](https://guthib.com/)">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/">
+  <a href="https://www.linkedin.com/in/pranjaysh141/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
