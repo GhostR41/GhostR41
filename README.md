@@ -65,15 +65,13 @@ Building a rigorous, ground-up foundation in computer science, logical reasoning
 
 # 📈 Milestones & Progress
 
-<details>
-<summary><b>🎯 Current Academic Focus</b></summary>
+<summary><b>🎯Milestone</b></summary>
 <br/>
 <ul>
-<li>Fourth-semester rigorous B.Tech coursework in Computer Science and Engineering.</li>
-<li>Deep-diving into Design and Analysis of Algorithms (DAA).</li>
-<li>Structuring technical roadmaps for graduate-level assessments and international research profile milestones.</li>
+<li>Selected and Contributed in GSSoC program.</li>
+<li>Joined HandShake AI under their fellowship program.</li>
+<li>Selected for Undergraduate research program (UROP) at SRMIST. </li>
 </ul>
-</details>
 
 <br/>
 
