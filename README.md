@@ -61,24 +61,21 @@ Building a rigorous, ground-up foundation in computer science, logical reasoning
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
 </p>
 
+
 ---
 
-
-# 📈 GitHub Contribution Activity
+# 📊 GitHub Contribution Activity
 
 <p align="center">
   <img
-    src="https://github-contribution-graph.ez4o.com/api?username=GhostR41&theme=github-dark&chart=bar"
-    alt="GitHub Contribution Bar Graph"
+    src="https://raw.githubusercontent.com/GhostR41/GhostR41/output/contributions.svg"
+    alt="GhostR41 GitHub Contribution Bar Chart"
     width="100%"
   />
 </p>
 
-<p align="center">
-  <i>Visualizing contribution activity over time.</i>
-</p>
-
 ---
+
 
 # 🌐 Connectivity
 
