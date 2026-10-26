@@ -21,5 +21,4 @@ jobs:
           github_user_name: GhostR41
           github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
-            contributions.svg?period=365&granularity=week&theme=dark
-            contributions-90d.svg?period=90&granularity=day&theme=dark
+            contributions.svg?period=365&granularity=week&style=clean&theme=dark
