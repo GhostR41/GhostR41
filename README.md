@@ -68,7 +68,7 @@ Building a rigorous, ground-up foundation in computer science, logical reasoning
 
 <p align="center">
   <img
-    src="https://github-contribution-graph.ez4o.com/api?username=YOUR_GITHUB_USERNAME&theme=github-dark&chart=bar"
+    src="https://github-contribution-graph.ez4o.com/api?username=GhostR41&theme=github-dark&chart=bar"
     alt="GitHub Contribution Bar Graph"
     width="100%"
   />
