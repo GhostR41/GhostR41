@@ -68,7 +68,15 @@ Building a rigorous, ground-up foundation in computer science, logical reasoning
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/GhostR41/GhostR41/output/contributions.svg"
-    alt="GhostR41 GitHub Contribution Bar Chart"
+    alt="GitHub contributions over the last year"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/GhostR41/GhostR41/output/contributions-90d.svg"
+    alt="GitHub contributions over the last 90 days"
     width="100%"
   />
 </p>
