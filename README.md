@@ -61,7 +61,6 @@ Building a rigorous, ground-up foundation in computer science, logical reasoning
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
 </p>
 
-
 ---
 
 # 📊 GitHub Contribution Activity
@@ -75,7 +74,6 @@ Building a rigorous, ground-up foundation in computer science, logical reasoning
 </p>
 
 ---
-
 
 # 🌐 Connectivity
 
