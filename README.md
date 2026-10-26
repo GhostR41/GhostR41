@@ -63,17 +63,20 @@ Building a rigorous, ground-up foundation in computer science, logical reasoning
 
 ---
 
-# 📈 Milestones & Progress
 
-<summary><b>🎯Milestone</b></summary>
-<br/>
-<ul>
-<li>Selected and Contributed in GSSoC program.</li>
-<li>Joined HandShake AI under their fellowship program.</li>
-<li>Selected for Undergraduate research program (UROP) at SRMIST. </li>
-</ul>
+# 📈 GitHub Contribution Activity
 
-<br/>
+<p align="center">
+  <img
+    src="https://github-contribution-graph.ez4o.com/api?username=YOUR_GITHUB_USERNAME&theme=github-dark&chart=bar"
+    alt="GitHub Contribution Bar Graph"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <i>Visualizing contribution activity over time.</i>
+</p>
 
 ---
 
